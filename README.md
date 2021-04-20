@@ -23,7 +23,7 @@ The output should appear for the both files are followed.
 | 4 | Manipulating and save the data as per user requirement | Using **awk** command to manipulate data.<br/>using different arguments like NR ,FS<br/> $AWK '{FS=","}  NR==4, NR==24 {print NR ")","NAME : "$2,"\n", "SUM : ",$11*8 ,"\n" , "AVG : "$11 , "\n", "=====================" }' data1.csv >result.txt | *- Fileds shoud be seprated by","<br/>*- All team member names should be displayed<br/>*- The Sum value automatic calculated using multipication 8 on average filed <br/>average filed should be display<br/>*-All data should also save as per user desired criteria | All data displayed and stored as expected | Pass |
 | 5 | Storing and Displaying the data | After manipulating data the awk comman will save the output file at the directory<br/>after that we using pipe to run **CAT** command to dispaly the output.eg.<br/>$AWK '{evalution}' data2.csv > result2.txt ! $CAT result2 | The output data should displayed and stored | Task done successfully | Pass |
 
-
+</details>
 
 ## Test result<br/>
 
