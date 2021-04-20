@@ -19,7 +19,7 @@ The output should appear for the both files are followed.
 |:-----: | :-----: | :------: | :-----: | :-----: | :-----: |
 | 1 | Publishing google spreadsheet to get the download link | <ol> Steps To Be Followed <li>Publishd my sheet to the web </li><li>selected embed format as a CSV</li><li>Now Start Publishing and copy the link </li></ol> | Shoud get desired link in CSV format | Got the link successfully | Pass |
 
-| 2 | Declare variable into the script so that it can work for any user or form any path | WGET="/usr/bin/wget" <br/> ECHO=/usr/bin/echo <br/> AWK=/usr/bin/awk <br/> CAT=/usr/bin/cat | Script should run without any error | All variable passed script run successfully | Pass |
+| 2 | Declare variable into the script so that it can work for any user or form any path | <ul><li> WGET="/usr/bin/wget"</li><li>ECHO=/usr/bin/echo </li><li> AWK=/usr/bin/awk </li><li> CAT=/usr/bin/cat</li></ul> | Script should run without any error | All variable passed script run successfully | Pass |
 
  
  
