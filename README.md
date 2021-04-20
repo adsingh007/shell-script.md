@@ -9,3 +9,12 @@ The output should appear for the both files are followed.
 
 ## Implimentaion.
 >First im publishing my google spreadsheed to the public in the form of CSV format then after that the public link will be genrated.Now with the help of that link i'll direcly download the file into my system using **Wget** ,After that i'am using **awk** command to manipulate data to get desired output.  
+
+
+##Test Case
+
+<ol>
+ <details>
+  
+|**SNo.** | **Test Case Description** |**Test Steps** | **Expected Result** | **Actual Result** | **Status** |
+|:-----: | :-----: | :------: | :-----: | :-----: | :-----: |
