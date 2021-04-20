@@ -24,6 +24,14 @@ The output should appear for the both files are followed.
 | 5 | Storing and Displaying the data | After manipulating data the awk comman will save the output file at the directory<br/>after that we using pipe to run **CAT** command to dispaly the output.eg.<br/>$AWK '{evalution}' data2.csv > result2.txt ! $CAT result2 | The output data should displayed and stored | Task done successfully | Pass |
 
 
+
+## Test result<br/>
+
+Test result of script is shown as below.
+
+<img src="https://github.com/adsingh007/shell-script.md/blob/main/result.png" alt="Test result">
+
+
  
  
  
