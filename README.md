@@ -28,9 +28,9 @@ The output should appear for the both files are followed.
 ## Test result<br/>
 
 Test result of script is shown as below.
-
+<details>
 <img src="https://github.com/adsingh007/shell-script.md/blob/main/result.png" alt="Test result">
-
+</details>
 
  
  
