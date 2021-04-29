@@ -8,3 +8,6 @@
   - Intern Name :-
   - Sum:-
   - Average:-
+
+# UNDERSTANDING
+**To create a new script which will test the previous script according to different test cases,So that we can test the reliability of our script.The script will test the script form every parameter as per test cases.the final result will shown as pass or fail.**
