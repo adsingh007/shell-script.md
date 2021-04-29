@@ -1,6 +1,6 @@
   # OBJECTIVE
   
-   **To create a TestScript to analyse reliability of the Evaluation script .
+   **To create a TestScript to analyse reliability of the Evaluation script .**
   
   # SUMMARY OF EVALUATION SCRIPT WHICH WILL BE TESTED
   
