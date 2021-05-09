@@ -53,9 +53,9 @@ Test result of script is shown as below.
  I have tested that the script is working and generating output as desired .
  
  
+ ### Reference link for Script and Config file
  
- 
- 
- 
+ - https://github.com/adsingh007/shell-script.md/blob/main/eval_3.sh
+ - https://github.com/adsingh007/shell-script.md/blob/main/evaluation.cfg
  
  
