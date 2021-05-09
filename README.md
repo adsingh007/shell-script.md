@@ -31,11 +31,11 @@ The output should appear for the both files are followed.
 | **SNo** | **Test Case Description** | **TesT Snaps** |
 | :-----: | :----: | :----: |
 | Test 1 | Publishing google spreadsheet to get the download link | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%201.png" align="right" width="50%">
-| Test 2 | Declare variable into the config file so that the script can get data from config file and work from any path and system | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test2.png" align="right" width="50%">
-| Test 3 | Dowlnload both file using **wget** command | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%203.png" align="right" width="50%">
-| Test 4 | Script should get the column no. automatically | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%204.png" align="right" width="50%">
-| Test 5 | Manipulating and save the data as per user requirement | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%205.png" align="right" width="50%">
-| Test 6 | Storing and Displaying the data | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%206.png" align="right" width="50%">
+| Test 2 | Declare variable into the config file so that the script can get data from config file and work from any path and system | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test2.png" align="right" width="100%">
+| Test 3 | Dowlnload both file using **wget** command | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%203.png" align="right" width="100%">
+| Test 4 | Script should get the column no. automatically | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%204.png" align="right" width="100%">
+| Test 5 | Manipulating and save the data as per user requirement | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%205.png" align="right" width="100%">
+| Test 6 | Storing and Displaying the data | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%206.png" align="right" width="100%">
   
  </details>
  
