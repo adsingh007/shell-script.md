@@ -27,9 +27,9 @@ The output should appear for the both files are followed.
 
 ## Test Case References
 <details>
- |
+ | **S No** | **Description** | **TesT Snaps** |
  
- 
+ </details>
 ## Test result<br/>
 
 Test result of script is shown as below.
