@@ -28,8 +28,8 @@ The output should appear for the both files are followed.
 ## Test Case References
 <details>
  
- | **S No** | **Description** | **TesT Snaps** |
- | :-----: | :----: | :----: | :----: |
+ | **SNo** | **Test Case Description** | **TesT Snaps** |
+ | :-----: | :----: | :----: |
  
  
  
