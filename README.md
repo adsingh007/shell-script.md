@@ -20,7 +20,7 @@ The output should appear for the both files are followed.
 | TEST 1 | Publishing google spreadsheet to get the download link | <ul> Steps To Be Followed <li>Publishd my sheet to the web </li><li>selected embed format as a CSV</li><li>Now Start Publishing and copy the link </li></ul> | Shoud get desired link in CSV format | Got the link successfully | Pass |
 | TEST 2 | Declare variable into the config file so that the script can get data from config file and work from any path and system | <ul><li>Declaired config file path into script</li><li> Declaired all variables into config file</li></ul> | Script should run without any error | All variable passed script run successfully | Pass |
 | TEST 3 | Dowlnload both file using **wget** command | The command will run two time to download both files.<br/>$WGET -nv "URL" -O "data.csv" | Acknowledgement of file download shoud be displayed | Fle downloaded message display | Pass |
-| TEST 4|Script should get the column no. automatically | using CAT,AWK,TR,WC commands to get column no. of required data field.|Script automatically calculate the column number using the column name|Column number for Name and Average it is calculated automatically |pass|
+| TEST 4| Script should get the column no. automatically | using CAT,AWK,TR,WC commands to get column no. of required data field.|Script automatically calculate the column number using the column name|Column number for Name and Average it is calculated automatically |pass|
 | TEST 5 | Manipulating and save the data as per user requirement | Using **awk** command to manipulate data.& using different options NR ,FS<br/>NR is used to select range to be display and FS is useed to separated comma separated fields| Fileds shoud be seprated by ","<br/> All team member names should be displayed<br/> The Sum value automatic calculated.<br/>average filed should be displayed<br/>All data should also save as per user desired criteria | All data displayed and stored as expected | Pass |
 | TEST 6 | Storing and Displaying the data | After manipulating data the data will display using **CAT** command and store in output data into the file using redirectional operator " > "| The output data should displayed and stored | Task done successfully | Pass |
 </details>
@@ -28,11 +28,15 @@ The output should appear for the both files are followed.
 ## Test Case References
 <details>
  
- | **SNo** | **Test Case Description** | **TesT Snaps** |
- | :-----: | :----: | :----: |
- 
- 
- 
+| **SNo** | **Test Case Description** | **TesT Snaps** |
+| :-----: | :----: | :----: |
+| Test 1 | Publishing google spreadsheet to get the download link | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%201.png" align="right" width="50%">
+| Test 2 | Declare variable into the config file so that the script can get data from config file and work from any path and system | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test2.png" align="right" width="50%">
+| Test 3 | Dowlnload both file using **wget** command | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%203.png" align="right" width="50%">
+| Test 4 | Script should get the column no. automatically | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%204.png" align="right" width="50%">
+| Test 5 | Manipulating and save the data as per user requirement | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%205.png" align="right" width="50%">
+| Test 6 | Storing and Displaying the data | <img src="https://github.com/adsingh007/shell-script.md/blob/main/test%206.png" align="right" width="50%">
+  
  </details>
  
 ## Test result
